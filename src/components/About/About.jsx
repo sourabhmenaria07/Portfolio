@@ -3,7 +3,8 @@ import Tilt from "react-parallax-tilt";
 import profileImage from "../../assets/profile.png";
 
 function About() {
-  const resumeLink = "";
+  const resumeLink =
+    "https://drive.google.com/file/d/1ThAoJ1e5Geg0p2PkFWgF9dNN10OIGA-2/view?usp=sharing";
   return (
     <section
       id="about"
